@@ -474,6 +474,7 @@ i {
   font-weight: var(--font-semi-bold);
   border-radius: 5px;
   background-color: #00b9aa;
+  color: #fff;
   border: 1px solid #f0f0f0;
 }
 
