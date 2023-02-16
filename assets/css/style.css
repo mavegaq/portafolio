@@ -1,5 +1,3 @@
-
-
 /*
 ==============================
   * CSS TABLE CONTENT *  
@@ -221,7 +219,7 @@ img {
 
 .navbar__link:hover {
   /* color: var(--text-primary);*/
-  color:#fff;
+  color: #fff;
 }
 
 .navbar__menu:target {
@@ -229,13 +227,13 @@ img {
 }
 
 
-.navbar__item:hover{
+.navbar__item:hover {
   background-color: #5221E6;
   color: #fff;
-  border-top: 4px  solid #fff; 
-  border-right: 4px  solid #fff; 
-  border-left: 4px  solid #fff; 
-  border-bottom: 4px  solid #fff; 
+  border-top: 4px solid #fff;
+  border-right: 4px solid #fff;
+  border-left: 4px solid #fff;
+  border-bottom: 4px solid #fff;
   box-shadow: var(--button-shadow);
 }
 
@@ -266,7 +264,7 @@ img {
   flex-direction: column;
   row-gap: var(--mr-2);
   background: url(https://www.maderea.es/imagenes/2018/07/madera-de-bocote.jpg) fixed center round;
-  
+
   background-color: #fff;
   color: #3A3B3C;
 }
@@ -595,14 +593,14 @@ textarea {
     align-items: center;
     /*background: url(../img/rockbackground.jpg) fixed center round;*/
     background: url(https://www.maderea.es/imagenes/2018/07/madera-de-bocote.jpg) fixed center round;
-    
+
     color: #00dbc9;
   }
 
   .home__title {
     margin-top: 2rem;
     font-size: 2rem;
-    
+
   }
 
   .home__description {
